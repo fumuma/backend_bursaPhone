@@ -1,0 +1,1 @@
+worker:mode app.js
